@@ -20,6 +20,8 @@ namespace VerifyFreeRest_NET
     ///     http://ec2-46-137-97-173.eu-west-1.compute.amazonaws.com/smrest/verify_free
     ///     
     /// Per l'utilizzo registrarsi sul sito http://streetmaster.it e richiedere la chiave per il servizio Verify Free solo localita' 
+    /// Il protocollo di comunicazione e' in formato JSON
+    /// Per le comunicazioni REST è utilizzata la libreria opensource RestSharp (http://restsharp.org/)
     /// 
     ///  2016 - Software by StreetMaster (c)
     /// </summary>

@@ -58,6 +58,7 @@ namespace VerifyFreeRest_NET
             var request = new RestRequest("smrest/webresources/verify_free", Method.GET);
             request.RequestFormat = DataFormat.Json;
 
+
             // valorizzazione input
             // per l'esempio viene valorizzato un insieme minimo dei parametri
             request.AddParameter("Key", txtKey.Text);

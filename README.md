@@ -5,7 +5,7 @@ Il progetto è sviluppato in C# - Framework 4.6.1
 Il protocollo di comunicazione e' in formato JSON e viene utilizzata la libreria opensource RestSharp (http://restsharp.org/)
 
 End point del servizio 
-     http://ec2-46-137-97-173.eu-west-1.compute.amazonaws.com/smrest/verify
+     http://ec2-46-137-97-173.eu-west-1.compute.amazonaws.com/smrest/verify_free
 
 Per l'utilizzo registrarsi sul sito http://streetmaster.it e richiedere la chiave per il servizio VERIFY.
 Il servizio permette di effettuare in maniera gratuita 250 chiamate mensili. 

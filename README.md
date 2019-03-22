@@ -6,7 +6,7 @@ Comuni italiani. Soluzione .NET per l'utilizzo del ws rest VERIFY FREE di verifi
 ### Ambiente di sviluppo:
   - C#
   - Framework 4.6.1
-  - Visual Studio Professional 2015 SP2
+  - Visual Studio Professional 2017
 
 ### Endopoint 
 ```
